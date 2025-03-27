@@ -58,7 +58,7 @@ Copy
 Edit
 
 
-📁 Risky-Roll/
+📁 Trap Roll/
 ├── index.html       # Main HTML file
 ├── style.css        # Styling for the game
 ├── script.js        # JavaScript game logic
